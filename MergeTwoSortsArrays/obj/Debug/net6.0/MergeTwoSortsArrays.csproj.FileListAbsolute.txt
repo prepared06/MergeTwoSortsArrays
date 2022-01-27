@@ -1,0 +1,15 @@
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\bin\Debug\net6.0\MergeTwoSortsArrays.exe
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\bin\Debug\net6.0\MergeTwoSortsArrays.deps.json
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\bin\Debug\net6.0\MergeTwoSortsArrays.runtimeconfig.json
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\bin\Debug\net6.0\MergeTwoSortsArrays.dll
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\bin\Debug\net6.0\ref\MergeTwoSortsArrays.dll
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\bin\Debug\net6.0\MergeTwoSortsArrays.pdb
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\obj\Debug\net6.0\MergeTwoSortsArrays.csproj.AssemblyReference.cache
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\obj\Debug\net6.0\MergeTwoSortsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\obj\Debug\net6.0\MergeTwoSortsArrays.AssemblyInfoInputs.cache
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\obj\Debug\net6.0\MergeTwoSortsArrays.AssemblyInfo.cs
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\obj\Debug\net6.0\MergeTwoSortsArrays.csproj.CoreCompileInputs.cache
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\obj\Debug\net6.0\MergeTwoSortsArrays.dll
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\obj\Debug\net6.0\ref\MergeTwoSortsArrays.dll
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\obj\Debug\net6.0\MergeTwoSortsArrays.pdb
+C:\Users\uswer\source\repos\tasks\Kanini\MergeTwoSortsArrays\MergeTwoSortsArrays\obj\Debug\net6.0\MergeTwoSortsArrays.genruntimeconfig.cache
